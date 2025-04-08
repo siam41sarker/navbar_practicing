@@ -1,0 +1,150 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29,
+      "features": [
+        "Access to gym equipment",
+        "1 fitness assessment per month",
+        "Locker room and shower access",
+        "Free Wi-Fi",
+        "Access from 6AM to 10PM"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 49,
+      "features": [
+        "Everything in Basic",
+        "Unlimited group fitness classes",
+        "2 guest passes per month",
+        "Sauna and steam room access",
+        "Body composition scans",
+        "10% discount on supplements"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 79,
+      "features": [
+        "Everything in Standard",
+        "24/7 gym access",
+        "Weekly personal trainer session",
+        "Towel and laundry service",
+        "Customized workout plan",
+        "Free daily protein shake",
+        "Early class reservations"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Couples Membership",
+      "price": 89,
+      "features": [
+        "Everything in Premium",
+        "2 access cards",
+        "Joint fitness tracking",
+        "Couples yoga classes",
+        "2 free massages per month"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Student Membership",
+      "price": 25,
+      "features": [
+        "Full gym access",
+        "Discounted group classes",
+        "Free locker usage",
+        "Study-lounge area",
+        "Exam-time stress relief sessions"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Family Membership",
+      "price": 129,
+      "features": [
+        "Up to 4 family members",
+        "Kids play zone access",
+        "Family yoga sessions",
+        "Nutrition coaching",
+        "Group family challenges"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Corporate Membership",
+      "price": 199,
+      "features": [
+        "Access for 5 employees",
+        "Priority support",
+        "Corporate wellness workshops",
+        "Team-building fitness events",
+        "Monthly health reports"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Weekend Warrior Membership",
+      "price": 19,
+      "features": [
+        "Weekend access only",
+        "All equipment available",
+        "Basic cardio sessions",
+        "Group workouts on Saturdays",
+        "Mobile app access"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Early Bird Membership",
+      "price": 35,
+      "features": [
+        "Access from 5AM to 9AM daily",
+        "Free coffee station",
+        "Peaceful workout environment",
+        "Sunrise yoga",
+        "Early check-in rewards"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Elite Membership",
+      "price": 149,
+      "features": [
+        "Unlimited everything",
+        "Dedicated personal coach",
+        "Private locker & suite",
+        "Custom health & fitness plan",
+        "Monthly spa & massage"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Virtual Membership",
+      "price": 15,
+      "features": [
+        "Online workout videos",
+        "Live virtual classes",
+        "Fitness progress tracking app",
+        "Nutrition plan PDFs",
+        "Coach Q&A sessions"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Day Pass Membership",
+      "price": 9,
+      "features": [
+        "Full access for 1 day",
+        "Use of all gym facilities",
+        "Locker room access",
+        "Towel service",
+        "No commitment required"
+      ]
+    }
+  ]
+  
